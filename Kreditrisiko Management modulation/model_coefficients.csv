@@ -1,0 +1,9 @@
+Feature,Coefficient
+loan_amount,2.155126438303955
+loan_term,0.04689308741125247
+credit_score,-1.3894256212780318
+income,-1.71338414911261
+debt_to_income,9.416315405595803
+employment_status_Part-time,-0.12224535479089446
+employment_status_Self-employed,-0.05740030900835088
+employment_status_Unemployed,-0.13240457101988576
